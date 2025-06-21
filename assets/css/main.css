@@ -1,5 +1,9 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
+/* @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600"); */
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap%22%20rel=%22stylesheet");
+
+
+
 
 /*
 	Dimension by HTML5 UP
@@ -141,7 +145,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", sans-serif;
+		font-family: 'Ubuntu', sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
